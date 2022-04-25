@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+
+import React,{useState} from'react';
+import Main from './components/Main'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <div>
+
+<Main />
+
+   </div>
   );
+  // <div className={(typeof weather.main != "undefined") ? (
+  //   (weather.weather[0].main === "Clouds") ? 'app clouds' : 
+  //   (weather.weather[0].main === "Clear") ? 'app clear' : 
+  //   (weather.weather[0].main === "Rain") ? 'app rain' : 'app')
+  // : 'app'}>
 }
 
 export default App;
