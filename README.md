@@ -33,13 +33,11 @@ The first displays the name of the city, the second displays the country where t
 
 ## Languages and tools
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/102309928/165267952-2da49b93-c319-4fab-82d1-c2fd10940f85.png
-"width="40" height="40"> 
-  <img src="https://user-images.githubusercontent.com/102309928/165267997-854f98d0-9986-4cd0-a296-e88402695a0d.png"width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/102309928/165268013-729fd905-0f4f-4773-89b5-ed24b45417cd.png"width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/102309928/165268025-8848f084-1948-4cc2-9ac5-732a8cda45ae.png"width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/102309928/165268041-941965b0-8bcf-4587-98d3-4a7a9f7aae6b.png"width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/102309928/165268047-6764fc2e-d11a-4c1e-8f32-839bafd69837.png
-"width="40" height="40">
+  <img src="https://user-images.githubusercontent.com/102309928/165267952-2da49b93-c319-4fab-82d1-c2fd10940f85.png"width="50" height="50"> 
+  <img src="https://user-images.githubusercontent.com/102309928/165267997-854f98d0-9986-4cd0-a296-e88402695a0d.png"width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/102309928/165268013-729fd905-0f4f-4773-89b5-ed24b45417cd.png"width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/102309928/165268025-8848f084-1948-4cc2-9ac5-732a8cda45ae.png"width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/102309928/165268041-941965b0-8bcf-4587-98d3-4a7a9f7aae6b.png"width="50" height="40">
+  <img src="https://user-images.githubusercontent.com/102309928/165268047-6764fc2e-d11a-4c1e-8f32-839bafd69837.png"width="60" height="40">
 
 
